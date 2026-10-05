@@ -1,4 +1,3 @@
-"""Buscador de costo mínimo con datos ficticios."""
 import argparse
 import csv
 import heapq

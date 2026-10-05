@@ -22,8 +22,3 @@ Las mediciones nuevas dependen del equipo y reemplazan ese archivo.
 
 El ZIP incluye el directorio .git y un commit local verificable.
 Tras extraer: git log --oneline y git status --short.
-
-## Uso de IA
-
-Codex en ChatGPT generó el 100 % del código Python del proyecto.
-Se ejecutaron y comprobaron el programa y sus pruebas.
